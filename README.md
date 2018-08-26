@@ -33,7 +33,7 @@ When a position is opened, the performance summary looks like:
 
 
 When a position is closed, the performance summary looks like:
-
+![screen shot 3](https://user-images.githubusercontent.com/29934837/44633535-1f291a80-a952-11e8-8fac-ae63da8e136a.png)
 
 
 
