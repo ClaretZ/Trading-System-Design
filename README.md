@@ -29,7 +29,7 @@ The order book's apperence:
 
 
 When a position is opened, the performance summary looks like:
-
+![screen shot 2](https://user-images.githubusercontent.com/29934837/44633516-06b90000-a952-11e8-821f-d2c850c7686c.png)
 
 
 When a position is closed, the performance summary looks like:
