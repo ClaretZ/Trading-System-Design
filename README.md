@@ -25,7 +25,7 @@ Action:
 The strategy uses AAL, CEA, DAL.
 
 The order book's apperence:
-
+![screen shot 1](https://user-images.githubusercontent.com/29934837/44633492-d4a79e00-a951-11e8-8e14-e8d3d6665e86.png)
 
 
 When a position is opened, the performance summary looks like:
